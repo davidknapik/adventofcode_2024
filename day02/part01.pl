@@ -1,4 +1,4 @@
-#!/usr/bin/perl 
+#!/usr/bin/perl
 
 my $input_file = 'test_input01.txt' ; # 4
 # my $input_file = 'test_input02.txt' ; # 8
